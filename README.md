@@ -1,4 +1,3 @@
-# GomourAPP
 
 # GomourDeliveryApp
 [곰아워 배달원용 앱](https://github.com/dddiri/GomourDeliveryApp)
